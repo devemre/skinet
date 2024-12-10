@@ -13,3 +13,4 @@
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
+/Users/emre/Desktop/Projects/GitHubProjects/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json
