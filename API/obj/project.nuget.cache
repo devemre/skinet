@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+uWbiogSLLo=",
+  "dgSpecHash": "ZyVVGseRU6c=",
   "success": true,
   "projectFilePath": "/Users/emre/Desktop/Projects/GitHubProjects/skinet/API/API.csproj",
   "expectedPackageFiles": [
@@ -45,6 +45,8 @@
     "/Users/emre/.nuget/packages/microsoft.sqlserver.server/1.0.0/microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "/Users/emre/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "/Users/emre/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
+    "/Users/emre/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/Users/emre/.nuget/packages/stackexchange.redis/2.8.22/stackexchange.redis.2.8.22.nupkg.sha512",
     "/Users/emre/.nuget/packages/system.clientmodel/1.0.0/system.clientmodel.1.0.0.nupkg.sha512",
     "/Users/emre/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
     "/Users/emre/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",

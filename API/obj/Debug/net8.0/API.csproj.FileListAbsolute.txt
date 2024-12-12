@@ -141,3 +141,5 @@
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/obj/Debug/net8.0/API.sourcelink.json
+/Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/Pipelines.Sockets.Unofficial.dll
+/Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/StackExchange.Redis.dll
