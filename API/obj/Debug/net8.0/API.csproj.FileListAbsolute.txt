@@ -59,7 +59,6 @@
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
-/Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/Mono.TextTemplating.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/System.ClientModel.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/System.CodeDom.dll
@@ -69,13 +68,10 @@
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/System.Composition.Runtime.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/System.Composition.TypedParts.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
-/Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/System.Drawing.Common.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/System.Memory.Data.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/System.Runtime.Caching.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
-/Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/System.Security.Permissions.dll
-/Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/System.Windows.Extensions.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
@@ -134,12 +130,7 @@
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
-/Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
-/Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
-/Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
-/Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
-/Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/obj/Debug/net8.0/API.sourcelink.json
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/Pipelines.Sockets.Unofficial.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/StackExchange.Redis.dll
@@ -148,3 +139,5 @@
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
 /Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/emre/Desktop/Projects/GitHubProjects/skinet/API/bin/Debug/net8.0/Stripe.net.dll
